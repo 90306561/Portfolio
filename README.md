@@ -1,8 +1,10 @@
 # Portfolio
 My Portfolio
 
+Hi, my name is Erik Peterson, and this is a portfolio of apps and projects I've made throughout the years. My first exposure to code was in 4th grade on Khan Academy, learning a small bit of JavaScript. In 9th grade, I decided to take AP Computer Science Principles, in which I learned basic code and made apps with MIT App Inventor. In 10th grade, I took AP Computer Science A, in which I learned Java. This year, I have been taking an iOS App development class in which I learned Swift. So far this year, I have made 1 working app with my team, and a further developing a second app I had started at the beginning of the year. 
+
 *[uiTest](https://github.com/90306561/UItest.git)
-Learning the basics of XCode First XCode project. Learned basics of how to add an image, how to add text. This was part of code with chris tutorials. I had a handful of swift playgrounds learning basic syntax of Swift.
+This was my very first XCode project. In this project I learned the basics of coding in Swift, along with some of the syntax. This was the first part of the Code With Chris tutorials. Along with this, I also had a handful of swift playgrounds learning about functions, variables, etc. 
 
 *[StickerTest](https://github.com/90306561/StickerTest.git)
 Made a stickers app. Learned how to resize an image to a billion different size formats.

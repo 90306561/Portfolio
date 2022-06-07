@@ -1,7 +1,7 @@
 # Portfolio
 My Portfolio
 
-Hi, my name is Erik Peterson, and this is a portfolio of apps and projects I've made throughout the years. My first exposure to code was in 4th grade on Khan Academy, learning a small bit of JavaScript. In 9th grade, I decided to take AP Computer Science Principles, in which I learned basic code and made apps with MIT App Inventor. In 10th grade, I took AP Computer Science A, in which I learned Java. This year, I have been taking an iOS App development class in which I learned Swift. So far this year, I have made 1 working app with my team, and a further developing a second app I had started at the beginning of the year. 
+Hi, my name is Erik Peterson, and this is a portfolio of apps and projects I've made throughout the years. My first exposure to code was in 4th grade on Khan Academy, learning a small bit of JavaScript. In 9th grade, I decided to take AP Computer Science Principles, in which I learned basic code and made apps with MIT App Inventor. In 10th grade, I took AP Computer Science A, in which I learned Java. This year, I have been taking an iOS App development class in which I learned Swift. So far this year, with the help of my team, I have published EPHS Bubble Words to the app store. In addition, I have also developed a second app, Hungry Alien.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,8 +40,7 @@ Hi, my name is Erik Peterson, and this is a portfolio of apps and projects I've 
 
 * [Bubble Words](https://github.com/90306561/BubbleWords.git)
   I developed this app with my team using all the previous knowledge I had learned throughout my past projects. In this app you have a 5x6 grid of 
-  randomized letters, a shooter that shoots a circle at the letters forming a word. It then checks the word, and if it is a valid word, it adds points 
-  (scrabble letter values) to your score. 
+  randomized letters, a shooter that shoots a "bubble" at the letters. The goal of the game is to spell out a word using the letters. After you spell the     word, it verifies that it is a word and adds appropriate points (scrabble letter values). Throughout this app, I learned how to create different screens   of the app, including a menu screen, a directions screen, and a end screen. In addition, I learned how to publish an app to the app store, learned how to   optimize the app by adding images and tags, and learned how to rewrite my code to optimize the efficiency of the app. 
   
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
